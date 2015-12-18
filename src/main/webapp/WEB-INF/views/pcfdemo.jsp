@@ -42,6 +42,7 @@
   fill: #fff !important;
   stroke: #000;
 }
+d
 
 </style>
 <style>
@@ -124,14 +125,14 @@
 		<br>
 		</div>
 		<div id="autogenMsg" align="center"> </div><br>
-		<div align="center"><b>Orders density per Australian State (tip: click on a state for details)</b></div>
+		<div align="center"><b>Orders density per Australian State (tip: click on a state for details) v1</b></div>
   		<div id="usmap" align="center"></div>
   		<div id="stateOrders" align="center" ></div>
 	</div>  		
 	
     <div class="container">
         <div class="footer">
-          <div class="footer-text">©&nbsp;2014 Pivotal Software, Inc.  </div>
+          <div class="footer-text">Â©&nbsp;2014 Pivotal Software, Inc.  </div>
           <div class="footer-poweredby"><img src="resources/img/PoweredByPivotal.png" alt="Powered By Pivotal "></div>
 	    </div>
 	</div>  		
