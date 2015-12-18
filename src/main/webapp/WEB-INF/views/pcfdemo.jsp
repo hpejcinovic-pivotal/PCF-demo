@@ -134,7 +134,7 @@ d
         <div class="footer">
           <div class="footer-text">©&nbsp;2014 Pivotal Software, Inc.  </div>
           <div class="footer-poweredby"><img src="resources/img/PoweredByPivotal.png" alt="Powered By Pivotal "></div>
-	    </div>
+	    </div> 
 	</div>  		
   		
 
