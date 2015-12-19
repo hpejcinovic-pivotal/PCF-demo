@@ -125,7 +125,7 @@ d
 		<br>
 		</div>
 		<div id="autogenMsg" align="center"> </div><br>
-		<div align="center"><b>Orders density per Australian State (tip: click on a state for details) version3</b></div>
+		<div align="center"><b>Orders density per Australian State (tip: click on a state for details) version4</b></div>
   		<div id="usmap" align="center"></div>
   		<div id="stateOrders" align="center" ></div>
 	</div>  		
